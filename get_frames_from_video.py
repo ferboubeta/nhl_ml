@@ -1,6 +1,7 @@
 import cv2
 
 
+
 # Opens the Video file
 cap= cv2.VideoCapture('C:/New/Videos/Play.mp4')
 i=0
